@@ -1,5 +1,5 @@
 function greetingProgram(nama) {
-    return "hallo selamat datang," + name + ", di CV ZAMAN NOW";
+    return "hallo selamat datang," + nama + ", di CV ZAMAN NOW";
 }
 console.log(greetingProgram(fito));
 
